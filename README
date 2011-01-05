@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3391
+
+It marks the current cursor position just before a line-based jump command is pressed (e.g. $, w, f, ;, <Home>, etc.). Hitting CTRL-O (or `' or ``) will put the cursor back to its original position. It works for both normal and insert mode line-based commands.
